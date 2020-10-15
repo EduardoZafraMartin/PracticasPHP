@@ -28,8 +28,8 @@
             }
         }
     echo "</tr></table>";
-    echo "La media de los valores en las posicionas pares es: ".($acumP/20)."<BR>";
-    echo "La media de los valores en las posicionas impares es: ".($acumI/20)."<BR>";
+    echo "La media de los valores pares es: ".($acumP/20)."<BR>";
+    echo "La media de los valores impares es: ".($acumI/20)."<BR>";
 ?>
 </BODY>
 </HTML>
